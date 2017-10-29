@@ -26,6 +26,8 @@ output: index.html
 
 - 一枚高中生
 
+- https://seadog007.me
+
 --
 
 <div align="center">
